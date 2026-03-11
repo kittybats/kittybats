@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  currently working on a c# vrchat internal cheat named <strong>Replete</strong> ～☆
+  currently working on a c++ vrchat internal cheat named <strong>nyx</strong> ～☆
 </p>
 
 <br />
