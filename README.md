@@ -19,7 +19,8 @@
 </p>
 
 <p align="center">
-  currently working on a c++ vrchat internal cheat named <strong>nyx</strong> ～☆
+  currently working on a c++ vrchat internal cheat named <strong>nyx</strong>
+  currently working on a c++ cs2 internal cheat named <strong>pawware</strong>～☆
 </p>
 
 <br />
@@ -31,5 +32,5 @@
 <p align="center">
   <strong><a href="https://x.com/tfisaboolean">Twitter</a></strong>
   ·
-  <strong><a href="https://discord.gg/car3FEtQx2">Discord</a></strong>
+  <strong><a href="https://discord.gg/ewujQaDJTE">Discord</a></strong>
 </p>
