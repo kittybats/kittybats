@@ -19,8 +19,11 @@
 </p>
 
 <p align="center">
-  currently working on a c++ vrchat internal cheat named <strong>nyx</strong>
-  currently working on a c++ cs2 internal cheat named <strong>pawware</strong>～☆
+  currently working on a c++ vrchat internal cheat named <strong>nyx</strong>～☆
+</p>
+
+<p align="center">
+ currently working on a c++ cs2 internal cheat named <strong>pawware</strong>～☆
 </p>
 
 <br />
