@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  hi, i'm <a href="https://discord.gg/w6YJhyAQAg">bats</a>!
+  hi, i'm <a href="https://discord.gg/ewujQaDJTE">bats</a>!
 </h1>
 
 <h3 align="center">welcome to my profile :3</h3>
