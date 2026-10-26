@@ -57,7 +57,7 @@
   <a href="https://github.com/kittybats">
     <img
       src="https://github-readme-stats.vercel.app/api?username=kittybats&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=ff99cc&text_color=f5d0e6&icon_color=ff99cc&bg_color=0d0d0d"
-      alt="GitHub Statistics including supported private repository stats"
+      alt="GitHub Statistics"
     />
   </a>
 
