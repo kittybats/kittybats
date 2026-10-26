@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
   <a href="https://discord.gg/car3FEtQx2">
     <img src="https://i.postimg.cc/LsZ0wZNf/catbat.jpg" width="600" alt="bats banner" />
@@ -7,7 +6,9 @@
 
   <h1>୨୧ hi, i'm <a href="https://discord.gg/ewujQaDJTE">bats</a>! ୨୧</h1>
 
-  <p><i>batgirl researcher · cybersecurity · infosec · c++ developer</i></p>
+  <p>
+    <i>batgirl researcher · cybersecurity · infosec · c++ developer</i>
+  </p>
 
   <img src="https://count.getloli.com/@kittybats?name=kittybats&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 
@@ -64,7 +65,7 @@
 
   <a href="https://github.com/kittybats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittybats&layout=compact&theme=dark&hide_border=true&title_color=ff99cc&text_color=f5d0e6&bg_color=0d0d0d"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittybats&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ff99cc&text_color=f5d0e6&bg_color=0d0d0d"
       alt="Most Used Languages"
     />
   </a>
@@ -78,7 +79,7 @@
   <h2>୨୧ find me</h2>
 
   <a href="https://x.com/tfisaboolean">
-    <img src="https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=x&logoColor=ff99cc" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=x&logoColor=ff99cc" alt="Twitter / X" />
   </a>
 
   <a href="https://discord.gg/YA6zA2KB9">
@@ -89,4 +90,4 @@
 
   <i>♡ thanks for visiting my corner of github ♡</i>
 
-</div>
+</div></Writing
