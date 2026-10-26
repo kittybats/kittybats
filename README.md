@@ -56,6 +56,15 @@
 
   <a href="https://github.com/kittybats">
     <img
+      src="https://github-readme-stats.vercel.app/api?username=kittybats&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=ff99cc&text_color=f5d0e6&icon_color=ff99cc&bg_color=0d0d0d"
+      alt="GitHub Statistics including supported private repository stats"
+    />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://streak-stats.demolab.com/?user=kittybats">
+    <img
       src="https://streak-stats.demolab.com?user=kittybats&theme=dark&hide_border=true&background=0d0d0d&ring=ff99cc&fire=ff66b2&currStreakLabel=ff99cc&sideLabels=ff99cc&currStreakNum=ffffff&sideNums=ffffff&dates=c9a0b8"
       alt="GitHub Contribution Streak"
     />
@@ -63,9 +72,11 @@
 
   <br/><br/>
 
+  <h2>୨୧ most used languages</h2>
+
   <a href="https://github.com/kittybats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittybats&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ff99cc&text_color=f5d0e6&bg_color=0d0d0d"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittybats&layout=compact&langs_count=8&count_private=true&theme=dark&hide_border=true&title_color=ff99cc&text_color=f5d0e6&bg_color=0d0d0d"
       alt="Most Used Languages"
     />
   </a>
@@ -90,4 +101,4 @@
 
   <i>♡ thanks for visiting my corner of github ♡</i>
 
-</div></Writing
+</div>
