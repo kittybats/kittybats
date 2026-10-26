@@ -15,17 +15,22 @@
   <img src="https://img.shields.io/badge/C%2B%2B-11111b?style=for-the-badge&logo=cplusplus&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Cybersecurity-11111b?style=for-the-badge&logo=kalilinux&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/VRChat-11111b?style=for-the-badge&logo=vrchat&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Unity-11111b?style=for-the-badge&logo=unity&logoColor=cba6f7" />
+
 </div>
 
 ---
 
 <div align="center">
   <h2>♡ about me</h2>
+
   <p>
     a batgirl researching cybersecurity & infosec,<br/>
     building things in c++ in my free time ～☆
   </p>
 </div>
+
+---
 
 <div align="center">
   <h2>𖦹 current project</h2>
